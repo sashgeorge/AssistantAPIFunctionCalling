@@ -1,0 +1,7 @@
+ openai
+import time
+import json
+yfinance
+requests
+os
+dotenv
